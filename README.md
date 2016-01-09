@@ -11,4 +11,4 @@ The primary goal of this project is to map routes through the Lawrence Universit
 - [ ] Create itinerary form
 - [ ] Connect itinerary to shortest-path algorithim
 - [ ] Style for mobile
-- [ ] Route-interrupt feature (*reset when more paper/toner is needed*)
+- [ ] Route-interrupt feature (*i.e. reset the path when more paper/toner is needed*)
